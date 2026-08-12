@@ -17,6 +17,9 @@ The primary objective of this project is to build an interactive sales analytics
 
 ## 📊 Dashboard Overview
 
+<img width="2556" height="1086" alt="sales dashboard powerbi" src="https://github.com/user-attachments/assets/9fcf90cf-a9dd-4070-be18-df3f92444630" />
+
+
 The dashboard contains several key analytical components.
 
 ### 🔢 KPI Cards
@@ -165,10 +168,6 @@ The dashboard can help an online store answer questions such as:
 > How many orders and customers are contributing to overall revenue?
 
 These insights can support decisions around **inventory planning, product strategy, marketing, and sales optimization**.
-
-## 📸 Dashboard Preview
-
-<img width="2556" height="1086" alt="sales dashboard powerbi" src="https://github.com/user-attachments/assets/9fcf90cf-a9dd-4070-be18-df3f92444630" />
 
 
 ## 🚀 Learning Outcomes
